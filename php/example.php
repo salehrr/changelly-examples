@@ -23,4 +23,3 @@
     curl_close($ch);
 
     var_dump($response);
-?>
